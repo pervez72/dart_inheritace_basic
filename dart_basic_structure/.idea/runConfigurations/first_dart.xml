@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="first.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" singleton="false" nameIsGenerated="true">
+    <option name="filePath" value="$PROJECT_DIR$/first.dart" />
+    <option name="workingDirectory" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="first.dart" run_configuration_type="DartCommandLineRunConfigurationType" />
+    </method>
+  </configuration>
+</component>
