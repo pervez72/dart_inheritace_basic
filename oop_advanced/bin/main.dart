@@ -8,7 +8,7 @@ int  main(){
   print("class create and other file to access");
   var obj=new math();
   obj.addtwo(10, 20);
-
+  print("this is inheritace part\n\n");
   // Inheritance Example:
   var obg =new mysoon();
   obg.name();
